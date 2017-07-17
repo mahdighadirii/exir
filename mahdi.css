@@ -1,0 +1,53 @@
+﻿*{
+margin:0;
+padding:0;
+}
+.title{
+    color: black;
+    text-align: center;    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.name li{    color: black;
+    color: black;
+    font-size:20px;    color: #1a1b19;font-style: italic;    margin-bottom: 50px;
+
+}
+a{
+color: blou;
+}
+.p{color:red;font-size:35px;    background-color: rgba(121, 85, 72, 0.62);
+margin:auto;
+    text-align: center;    font-style: italic;
+    
+    }
+.g{color: black;font-size:22px;font-style: italic;font-family: initial;
+
+}
+.a{color: red;font-style: italic;font-size: 45px;padding-left: 200px;
+
+
+}
+.m{font-size: 15px;font-style: italic;    ;
+;color: black;    padding-left: 200px;padding: 6px;    text-align: right;margin-bottom: 13px;
+
+}
+
+
+}
+.row-header{
+ background-color: rgba(121, 85, 72, 0.62);
+height:50px;
+}
+.row-header1{background-color: rgba(158, 67, 42, 0.2);height:60px;
+
+
+}
+.image{padding-top: 50px;
+
+
+
+}
+.bad{margin-bottom: 10px;
+
+
+}
